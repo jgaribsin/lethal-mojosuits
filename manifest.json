@@ -1,6 +1,6 @@
 {
     "name": "Mojo_Suits",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/jgaribsin/lethal-mojosuits",
     "description": "Custom suits made by friends, loaded by More Suits.",
     "dependencies": [
