@@ -1,6 +1,7 @@
 {
     "name": "Mojo_Suits",
     "version_number": "1.0.0",
+    "website_url": "https://github.com/jgaribsin/lethal-mojosuits",
     "description": "Custom suits made by friends, loaded by More Suits.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
