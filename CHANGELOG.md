@@ -1,6 +1,10 @@
 ## v1.0.1
 
-- Added new suit
+- Added Taco suit
+
+## v1.0.1
+
+- Added brat suit
 
 ## v1.0.0 Release
 
